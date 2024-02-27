@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    word_censored (0.1.8)
+    word_censored (0.1.9)
 
 GEM
   remote: https://rubygems.org/
